@@ -1,0 +1,7 @@
+streamlit
+requests
+audio-recorder-streamlit
+SpeechRecognition
+langdetect
+python-dotenv
+gTTS
